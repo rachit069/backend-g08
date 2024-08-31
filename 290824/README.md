@@ -1,2 +1,2 @@
-Count -> How to count documentats in Collection
+Count -> How to count documents in Collection
 
